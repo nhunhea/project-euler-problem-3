@@ -1,4 +1,5 @@
 # Project Euler Problem #3
+[![CircleCI](https://circleci.com/gh/nhunhea/project-euler-problem-3.svg?style=svg)](https://circleci.com/gh/nhunhea/project-euler-problem-3)
 
 ## Largest Prime Factor
 [source] : https://projecteuler.net/problem=3
