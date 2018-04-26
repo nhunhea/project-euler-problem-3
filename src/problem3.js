@@ -10,7 +10,7 @@ function largestPrimeFactor() {
     }
   }
   return Math.max.apply(null, primes);
-  form.result.value= eval(largestPrimeFactor;
+  form.result.value= eval(largestPrimeFactor);
 }
 const isPrime = num => {
   var isPrime = true;
